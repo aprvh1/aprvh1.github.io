@@ -1054,8 +1054,8 @@ a:hover, a:active {
 .grid-item {
     display: block;
     float: left;
-    margin: 16px 0;
-    padding: 0 16px;
+    margin: 16px;
+    padding: 16px;
 }
 
 .grid-item,
