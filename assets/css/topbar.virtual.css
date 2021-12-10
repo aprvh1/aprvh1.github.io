@@ -286,13 +286,14 @@
 .testi-carousel .item .wrap {
   float: left;
   width: 50%;
+  border: 0px;
 }
 
 .testi-carousel .item .img-place {
   max-width: 350px;
-  height: 300px;
-  background-color: #f4f5f8;
-  border-radius: 4px;
+  max-height: 300px;
+  background-color: white;
+  border-radius: 2px;
   overflow: hidden;
 }
 
